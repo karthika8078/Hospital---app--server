@@ -1,0 +1,38 @@
+[
+  {
+    "id": 16001,
+    "name": "Medical collage",
+    "patientCount": 520000,
+    "location": "Tvm"
+  },
+
+  {
+    "id": 16002,
+    "name": "City Hospital",
+    "patientCount": 9920,
+    "location": "wayanad"
+  },
+  {
+    "id": 16003,
+    "name": "General Hospital",
+    "patientCount": 189090,
+    "location": "Thrissur"
+  },
+  {
+    "id": 16004,
+    "name": "Eskay Hospital",
+    "patientCount": 320000,
+    "location": "Banglore"
+  },
+  {
+    "id": 16005,
+    "name": "Saint Mary Hospital",
+    "patientCount": 207000,
+    "location": "Kollam"
+  }
+
+
+
+
+
+]
